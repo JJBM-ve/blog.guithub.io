@@ -1,8 +1,8 @@
-# React + Vite
+# Blog para mi galeria personal de proyectos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pretendo muestrar los proyectos que realizo, en su mayoria son con html, css y javascript o en su defecto utilizo vanilla.js para crear y manipular los elementos del DOM
 
-Currently, two official plugins are available:
+proyecto creado en react con vite, recomiendo leer el archivo packages.json
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+levantar el servidor vite con comando basico "npm run dev"
+
